@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/infnet-bl6-fdan-atdbserver/databases/infnet-bl6-fdaN-at_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:infnet_bl6_fdaN_atContext",
+      "dynamicId": null
+    }
+  }
+}
