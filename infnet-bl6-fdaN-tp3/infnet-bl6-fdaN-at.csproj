@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>infnet_bl6_fdaN_at</RootNamespace>
+    <UserSecretsId>8ea918e7-d90b-4514-835f-bc12e181c8e4</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
